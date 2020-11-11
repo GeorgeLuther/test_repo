@@ -1,1 +1,2 @@
-Hello George, my name is Jake, as you know
+Hello George, my name is Jake, as you know.
+I do know... What's good y'all?
